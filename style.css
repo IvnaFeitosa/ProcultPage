@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.laranja {
+  color: rgb(240, 141, 96);
+}
+
+.fundo-laranja {
+  background-color: rgb(240, 141, 96);
+  color: #fff;
+}
+
+.amarelo {
+  color: rgb(245, 190, 86);
+}
+
+.fundo-amarelo {
+  background-color: rgb(245, 190, 86);
+  color: #121212;
+}
+
+.verde {
+  color: rgb(117, 183, 71);
+}
+
+.fundo-verde {
+  background-color: rgb(117, 183, 71);
+  color: #121212;
+}
+
+.azul {
+  color: rgb(80, 189, 202);
+}
+
+.fundo-azul {
+  background-color: rgb(80, 189, 202);
+  color: #121212;
+}
+
+.marrom {
+  color: rgb(83, 43, 29);
+}
+
+.fundo-marrom {
+  background-color: rgb(83, 43, 29);
+  color: #fff
